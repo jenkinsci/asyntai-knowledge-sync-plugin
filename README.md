@@ -9,6 +9,8 @@ Keep your [Asyntai](https://asyntai.com) AI chatbot up to date with your documen
 
 Every build page shows a table of the pages the step added, updated, left alone or removed.
 
+Full setup guide: [Asyntai Jenkins integration](https://asyntai.com/documentation/integrations/jenkins/)
+
 ## Getting started
 
 1. In Asyntai, open **Settings > API** and copy your API key.
